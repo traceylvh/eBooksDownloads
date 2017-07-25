@@ -1,9 +1,11 @@
+/*embedded on page in CivicPlus HTML widget */
+
 <style>
 
 div.fa-appIcons {
     font-size:.6em;
     font-family: sans-serif;
-    width:5.5em;
+    width:6.5em;
     margin:10px 5px 0 0;
     text-align:center;
     color:#b0c0d0;
