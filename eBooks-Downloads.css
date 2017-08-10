@@ -32,4 +32,10 @@ a.fa-linkNoUL:hover,  a.fa-linkNoUL:active {
     font-size:.9em;
 }
 
+.dividerLine {
+  margin:0;
+  padding:0;
+  border-top: solid 2px #e7ecf0;
+}
+
 </style>
